@@ -6,7 +6,7 @@ function HeroSection() {
 
       {/* Background Image */}
       <img
-        src="hhttps://jampea-api-production.up.railway.app/images/pantai_bonesialla.jpg"
+        src="https://jampea-api-production.up.railway.app/images/pantai_bonesialla.jpg"
         alt="Pulau Jampea"
         className="absolute inset-0 w-full h-full object-cover"
       />
