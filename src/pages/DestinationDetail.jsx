@@ -62,7 +62,7 @@ function DestinationDetail() {
       {/* Image */}
       {destination.gambar_utama && (
         <img
-          src={`https://jampea-api-production.up.railway.app/images/${destination.gambar_utama}`}
+          src={`${BASE_URL}/images/${destination.gambar_utama}`}
           alt={destination.nama}
           className="w-full h-96 object-cover rounded-t-3xl"
         />

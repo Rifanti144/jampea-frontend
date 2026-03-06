@@ -6,7 +6,7 @@ function HeroSection() {
 
       {/* Background Image */}
       <img
-        src="http://localhost:8000/images/pantai_bonesialla.jpg"
+        src="hhttps://jampea-api-production.up.railway.app/images/pantai_bonesialla.jpg"
         alt="Pulau Jampea"
         className="absolute inset-0 w-full h-full object-cover"
       />
@@ -50,4 +50,4 @@ function HeroSection() {
   );
 }
 
-export default HeroSection;
+export default HeroSection;   
